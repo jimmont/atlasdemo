@@ -1,0 +1,7 @@
+[
+{"path":"/summary", "label": "Summary", "partial": "lorum.html"}
+,{"path":"/issues", "label": "Issues", "partial": "lorum.html"}
+,{"path":"/popular", "label": "Popular Issues", "partial": "lorum.html"}
+,{"path":"/calendar", "label": "Calendar", "partial": "lorum.html"}
+,{"path":"/labels", "label": "Labels", "partial": "lorum.html"}
+]
